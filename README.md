@@ -74,5 +74,4 @@ After running the simulation, the notebook outputs the optimal portfolio metrics
     * **Sharpe Ratio:** ~0.85
     * **Return on Investment:** ~272.97%
 
-## 📜 License
-This project is open-source and available for educational and research purposes.# Portfolio_Optimization_using-_Monte_Carlo
+
